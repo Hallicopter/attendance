@@ -10,5 +10,6 @@ Attendance parser for my mother's biometric scanner.
 ## TODO
 
 1. [] Better UX
-2. [] Easier workflows (email support, file upload?)
-3. [] Code cleanup
+2. [] Ease of setup (should not need flask server, should be selfhostable with ease, etc.)
+3. [] Easier workflows (email support, file upload?)
+4. [] Code cleanup
